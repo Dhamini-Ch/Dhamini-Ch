@@ -1,20 +1,63 @@
-## Hi there 👋
+Hi there, I'm Cheekireddy Dhamini! 👋
 
-<!--
-**Dhamini-Ch/Dhamini-Ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineer specializing in **AI/ML, GenAI & Agentic AI**, with experience building production-grade systems across **NLP, real-time data processing, LLMs, RAG, multi-agent architectures, and enterprise AI automation**. Experienced in deploying scalable AI solutions using **MLOps, AWS, Azure, and cloud-native technologies**.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+💻 Programming Languages
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dhamini-Ch&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+🛠️ Tools & Technologies
+
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
+![FAISS](https://img.shields.io/badge/-FAISS%20%2F%20RAG-00A0DC?style=flat-square)
+![MCP](https://img.shields.io/badge/-MCP-6E56CF?style=flat-square)
+![Copilot Studio](https://img.shields.io/badge/-Copilot%20Studio-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![SageMaker](https://img.shields.io/badge/-SageMaker-01A88D?style=flat-square)
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+👨‍💼 Experience
+
+* Software Engineer at MAQ Software (12/2025 - Present)
+* Software Engineer at Lightcast (02/2024 - 12/2024)
+* AI/ML Engineer Intern at Indian Space Research Organization(ISRO) (02/2023 - 03/2023)
+* AI/ML Intern Xerion Labs (01/2022 - 03/2022)
+
+🎓 Education
+
+B.Tech. Computer Science Engineering specialization AI&ML Sri Ramachandra Medical College and Research Institute • Chennai, TN Graduated: 06/2024 | Gold Medalist
+
+🏆 Achievements
+
+* 🥇 Gold Medalist — B.Tech in AI & Machine Learning
+* RunnerUp for the Summer Hackthon-2023 on AIML. 
+
+📄 Publications
+
+Auto-Encoder LSTM for Learning Dependency of Traffic by Sequencing Spatial-Temporal Traffic Flow Rate Deep Learning / Time-Series / Traffic Prediction — Autoencoder + LSTM model for learning spatial-temporal dependencies and predicting traffic flow rates. Published in IEEE | DOI: 10.1109/ICITIIT54346.2022.9744139
+Analysis of Cardiac Dynamics and Assessment of Arrhythmia by Classifying Heartbeat Using Electrocardiogram Medical AI / Deep Learning / ECG Signal Processing — Cardiac dynamics analysis and heartbeat classification for arrhythmia assessment. Book Chapter — CAIAMHS-1, Taylor & Francis
+Coronary Artery Blockage Detection by Automated Segmentation of Vessel in X-ray Angiograms Medical AI / Computer Vision / Medical Image Segmentation — Automated coronary artery blockage detection via vessel segmentation in X-ray angiograms. Research Chapter 26 — Springer | Read Chapter
+
+🌐 Languages
+
+* [English (Fluent)]
+* [German (Intermediate)]
+* [Telugu (Native)]
+* [Tamil (Bilingual proficiency)]
+* [Hindi (Intermidiate)]
+
+Thank you for visiting my profile! 😊
+
+![Profile views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=blueviolet&style=flat-square&label=Profile+Views)

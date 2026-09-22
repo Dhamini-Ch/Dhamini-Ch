@@ -47,32 +47,32 @@ B.Tech. Computer Science Engineering specialization AI&ML Sri Ramachandra Medica
 📄 Publications
 
 **1. Auto-Encoder LSTM for Learning Dependency of Traffic by Sequencing Spatial-Temporal Traffic Flow Rate**
-<br>🧠 *Deep Learning • Time-Series • Traffic Prediction*
+<br>*Deep Learning • Time-Series • Traffic Prediction*
 <br>Autoencoder + LSTM model for learning spatial-temporal dependencies and predicting traffic flow rates.
-<br>📌 Published in **IEEE** &nbsp;|&nbsp; DOI: [10.1109/ICITIIT54346.2022.9744139](https://ieeexplore.ieee.org/document/9744139)
+<br> Published in **IEEE** &nbsp;|&nbsp; DOI: [10.1109/ICITIIT54346.2022.9744139](https://ieeexplore.ieee.org/document/9744139)
 
 <br>
 
 **2. Analysis of Cardiac Dynamics and Assessment of Arrhythmia by Classifying Heartbeat Using Electrocardiogram**
-<br>❤️ *Medical AI • Deep Learning • ECG Signal Processing*
+<br>*Medical AI • Deep Learning • ECG Signal Processing*
 <br>Cardiac dynamics analysis and heartbeat classification for arrhythmia assessment.
-<br>📌 Book Chapter — **CAIAMHS-1, Taylor & Francis**
+<br>Book Chapter — **CAIAMHS-1, Taylor & Francis**
 
 <br>
 
 **3. Coronary Artery Blockage Detection by Automated Segmentation of Vessel in X-ray Angiograms**
-<br>🩻 *Medical AI • Computer Vision • Medical Image Segmentation*
+<br>*Medical AI • Computer Vision • Medical Image Segmentation*
 <br>Automated coronary artery blockage detection via vessel segmentation in X-ray angiograms.
-<br>📌 Research Chapter 26 — **Springer** &nbsp;|&nbsp; [Read Chapter →](https://link.springer.com/chapter/10.1007/978-3-031-53717-2_26)
+<br>Research Chapter 26 — **Springer** &nbsp;|&nbsp; [Read Chapter →](https://link.springer.com/chapter/10.1007/978-3-031-53717-2_26)
 
 🌐 Languages
 
-* [English (Fluent)]
-* [German (Intermediate)]
-* [Telugu (Native)]
-* [Tamil (Bilingual proficiency)]
-* [Hindi (Intermidiate)]
+* English (Fluent)
+* German (Intermediate)
+* Telugu (Native)
+* Tamil (Bilingual proficiency)
+* Hindi (Intermidiate)
 
 Thank you for visiting my profile! 😊
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile views](https://komarev.com/ghpvc/?username=Dhamini-Ch&color=blueviolet&style=flat-square&label=Profile+Views)

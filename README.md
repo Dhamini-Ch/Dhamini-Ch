@@ -94,8 +94,8 @@ B.Tech. Computer Science Engineering specialization AI&ML Sri Ramachandra Medica
 
 ---
 
-### 👁️ Profile Views
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=Dhamini-Ch&color=blue&style=flat-square&label=Profile+views" alt="Profile views">
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=Dhamini-Ch&color=blueviolet&style=flat-square&label=Profile+Views)
-
-**Thank you for visiting my profile! 😊**
+<h3 align="center">Thank you for visiting my profile! 😊</h3>

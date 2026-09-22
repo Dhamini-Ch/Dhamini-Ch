@@ -46,9 +46,24 @@ B.Tech. Computer Science Engineering specialization AI&ML Sri Ramachandra Medica
 
 📄 Publications
 
-Auto-Encoder LSTM for Learning Dependency of Traffic by Sequencing Spatial-Temporal Traffic Flow Rate Deep Learning / Time-Series / Traffic Prediction — Autoencoder + LSTM model for learning spatial-temporal dependencies and predicting traffic flow rates. Published in IEEE | DOI: 10.1109/ICITIIT54346.2022.9744139
-Analysis of Cardiac Dynamics and Assessment of Arrhythmia by Classifying Heartbeat Using Electrocardiogram Medical AI / Deep Learning / ECG Signal Processing — Cardiac dynamics analysis and heartbeat classification for arrhythmia assessment. Book Chapter — CAIAMHS-1, Taylor & Francis
-Coronary Artery Blockage Detection by Automated Segmentation of Vessel in X-ray Angiograms Medical AI / Computer Vision / Medical Image Segmentation — Automated coronary artery blockage detection via vessel segmentation in X-ray angiograms. Research Chapter 26 — Springer | Read Chapter
+**1. Auto-Encoder LSTM for Learning Dependency of Traffic by Sequencing Spatial-Temporal Traffic Flow Rate**
+<br>🧠 *Deep Learning • Time-Series • Traffic Prediction*
+<br>Autoencoder + LSTM model for learning spatial-temporal dependencies and predicting traffic flow rates.
+<br>📌 Published in **IEEE** &nbsp;|&nbsp; DOI: [10.1109/ICITIIT54346.2022.9744139](https://ieeexplore.ieee.org/document/9744139)
+
+<br>
+
+**2. Analysis of Cardiac Dynamics and Assessment of Arrhythmia by Classifying Heartbeat Using Electrocardiogram**
+<br>❤️ *Medical AI • Deep Learning • ECG Signal Processing*
+<br>Cardiac dynamics analysis and heartbeat classification for arrhythmia assessment.
+<br>📌 Book Chapter — **CAIAMHS-1, Taylor & Francis**
+
+<br>
+
+**3. Coronary Artery Blockage Detection by Automated Segmentation of Vessel in X-ray Angiograms**
+<br>🩻 *Medical AI • Computer Vision • Medical Image Segmentation*
+<br>Automated coronary artery blockage detection via vessel segmentation in X-ray angiograms.
+<br>📌 Research Chapter 26 — **Springer** &nbsp;|&nbsp; [Read Chapter →](https://link.springer.com/chapter/10.1007/978-3-031-53717-2_26)
 
 🌐 Languages
 

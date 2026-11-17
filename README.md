@@ -56,7 +56,7 @@ B.Tech. Computer Science Engineering specialization AI&ML Sri Ramachandra Medica
 
 ### 🏆 Achievements
 
-* 🥇 Gold Medalist — B.Tech in AI & Machine Learning
+* 🥇 Gold Medalist — B.Tech in AI & Machine Learning(2020 - 2024)
 * RunnerUp for the Summer Hackthon-2023 on AIML. 
 
 ---
